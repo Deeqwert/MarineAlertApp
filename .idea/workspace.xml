@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4901af7f-6809-4115-b4aa-fa056a2d3cee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/android/app/BUCK" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/BUCK" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/java/com/marinealertmobile/ReactNativeFlipper.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/debug/java/com/marinealertmobile/ReactNativeFlipper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/assets/index.android.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/assets/index.android.bundle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/marinealertmobile/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/marinealertmobile/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/marinealertmobile/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/marinealertmobile/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/marinealertmobile.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/marinealertmobile.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/marinealertmobile/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/marinealertmobile/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FetchAPi/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FetchAPi/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/actions/AuthenticationAction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/actions/AuthenticationAction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/saga/AuthenticationSaga.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/saga/AuthenticationSaga.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/EmergencyContacts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/EmergencyContacts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Login/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Login/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/MaritimeConditions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/MaritimeConditions/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/PortLocation/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/PortLocation/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Profile/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Profile/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/SOSTab/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/SOSTab/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/SecondaryTab/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/SecondaryTab/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/TermsNConditions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/TermsNConditions/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tLTnBrylDzit9ewBzF0Om4lSdZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4901af7f-6809-4115-b4aa-fa056a2d3cee" name="Default Changelist" comment="" />
+      <created>1622547535256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622547535256</updated>
+    </task>
+    <servers />
+  </component>
+</project>
