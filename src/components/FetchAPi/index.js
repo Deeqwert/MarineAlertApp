@@ -1,7 +1,7 @@
 import { Platform } from "react-native";
-// const baseUrl = "https://rudraserver.com/maritime-alert/wp-json/wp/v2/";
 
-const baseUrl = "https://satamp.net/wp-json/wp/v2/";
+
+const baseUrl = "Your base URL here";
 let accessToken = "",
   device_token = "",
   connectionState = { "isConnected": true, "type": "wifi" };
